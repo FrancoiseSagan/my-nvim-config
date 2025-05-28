@@ -23,4 +23,6 @@ require("lazy").setup({
   { import = "plugins.lualine" },
   { import = "plugins.bufferline" },
   { import = "plugins.mason" },
+  { import = "plugins.tokyo" },
 })
+
